@@ -1,6 +1,6 @@
 # Swisstronik code challenge #3
 
-## Challenge task: create, deploy and show off your ERC20 token contract using Hardhat
+## Task details: Craft an ERC20 contract that mints at least 100 tokens with Hardhat
 
 1. Function Deploy
 ```
