@@ -13,7 +13,7 @@ npx hardhat run scripts/mint.js --network swisstronik
 ```
 3. Tx Mint
    
-https://explorer-evm.testnet.swisstronik.com/tx/0x9759e72a5313a0cc2b02be71ad7cdb55c1588b0e3e4cbd4a0712dd500e180181
+  https://explorer-evm.testnet.swisstronik.com/tx/0x9759e72a5313a0cc2b02be71ad7cdb55c1588b0e3e4cbd4a0712dd500e180181
 
 SC Token :
 ```
