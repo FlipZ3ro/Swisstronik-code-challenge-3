@@ -17,6 +17,7 @@ SC Token :
 0xEC341BD622Ad27F4Ea301b5DaB7FdC8EA48A8a61
 ```
 Name : arapzz
+
 Symbol : ARPZ
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
